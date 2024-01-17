@@ -9,7 +9,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/LunaticTunnel/Lt/main/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/LunaticTunnel/Lt/main/files/update && chmod +x update && ./update</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20
